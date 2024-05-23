@@ -1,5 +1,5 @@
 # ML-System-Insider
-
+Do you want to be a insider of a machine learning running system? Let us begin our journey!
 ## 书籍等资料
 ### [《机器学习系统-设计和实现》](https://openmlsys.github.io/chapter_preface/index.html)
 ### 《AI编译器开发指南》
